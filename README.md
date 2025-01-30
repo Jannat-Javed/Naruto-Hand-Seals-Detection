@@ -9,8 +9,8 @@ There are 12 basic hand signs or hand seals, each one named after an animal in t
 
 <p align="center">
   <div style="display: flex; justify-content: center;">
-    <img src="https://github.com/Jannat-Javed/Naruto-Hand-Seals-Detection/blob/main/pics/Kakashi.gif" alt="GIF 1" width="500" style="margin-right: 20px;"/>
-    <img src="https://github.com/Jannat-Javed/Naruto-Hand-Seals-Detection/blob/main/pics/Minato.gif" alt="GIF 2" width="500"/>
+    <img src="https://github.com/Jannat-Javed/Naruto-Hand-Seals-Detection/blob/main/pics/Kakashi.gif" alt="GIF 1" width="400" style="margin-right: 20px;"/>
+    <img src="https://github.com/Jannat-Javed/Naruto-Hand-Seals-Detection/blob/main/pics/Minato.gif" alt="GIF 2" width="400"/>
   </div>
 </p>
 
