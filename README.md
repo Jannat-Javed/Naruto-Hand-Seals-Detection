@@ -8,9 +8,10 @@ This project utilizes **YOLOv11** to perform real-time detection of Naruto hand 
 There are 12 basic hand signs or hand seals, each one named after an animal in the Chinese Zodiac.
 
 <p align="center">
-  <img src="https://github.com/Jannat-Javed/Naruto-Hand-Seals-Detection/blob/main/pics/Kakashi.gif" alt="GIF 1" width="500"/>
-  <img src="https://github.com/Jannat-Javed/Naruto-Hand-Seals-Detection/blob/main/pics/Minato.gif" alt="GIF 2" width="500"/>
+  <img src="https://github.com/Jannat-Javed/Naruto-Hand-Seals-Detection/blob/main/pics/Kakashi.gif" alt="GIF 1" width="500" style="display: inline-block;"/>
+  <img src="https://github.com/Jannat-Javed/Naruto-Hand-Seals-Detection/blob/main/pics/Minato.gif" alt="GIF 2" width="500" style="display: inline-block;"/>
 </p>
+
 
 
 
