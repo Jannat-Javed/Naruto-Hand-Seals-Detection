@@ -62,8 +62,7 @@ Before running the project, ensure you have the following:
 
 ## Files
  - demo.py: Main script for real-time detection.
-- main.py: Contains the logic for processing detections and displaying results.
-- train.ipynb: Notebook for training the YOLOv11 model.
+- main.py: Contains the logic for processing detections and displaying pics.
 
 
 
