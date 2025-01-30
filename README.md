@@ -1,17 +1,18 @@
 # Naruto Hand Seals Detection
 
 
-![undefined - Imgur (2)](https://github.com/user-attachments/assets/60f1f31c-55ba-42a0-89f2-1e2a4422fd65)
+<img src="https://github.com/Jannat-Javed/Naruto-Hand-Seals-Detection/blob/main/pics/team%207.jpg" alt="team 7" width="600"/>
 
-![undefined - Imgur (3)](https://github.com/user-attachments/assets/b4bbc773-2173-4230-a30f-00df73fa3da4)
-
-
-
-
-When I was a kid, I used to watch an anime called Naruto, which followed the adventures of its main protagonist, a young ninja named Naruto. In the world of Naruto, ninjas possessed "chakra," an energy that allowed them to perform powerful jutsus or techniques. To activate these techniques, they had to perform specific hand seals or hand signs, which helped channel their chakra. As a child, I would excitedly mimic these hand signs and shout out the names of different techniques—though, in reality, I had no idea what the actual hand seals were. I just made them up as I went along.
-
+When I was a kid, I used to watch an anime called Naruto, which followed the adventures of its main protagonist, a young ninja named Naruto. In the world of Naruto, ninjas possessed "chakra," an energy that allowed them to perform powerful jutsus or techniques. To activate these techniques, they had to perform specific hand seals or hand signs, which helped channel their chakra. As a child, I would excitedly mimic these hand signs and shout out the names of different techniques.
 This project utilizes **YOLOv11** to perform real-time detection of Naruto hand seals. The system processes input from a webcam or video file, identifying 12 different Naruto hand seals, and displaying the detected seals along with their corresponding names and confidence scores in the video stream. It also overlays custom images for each hand seal.
 There are 12 basic hand signs or hand seals, each one named after an animal in the Chinese Zodiac.
+
+<p align="center">
+  <img src="https://github.com/Jannat-Javed/Naruto-Hand-Seals-Detection/blob/main/pics/Kakashi.gif" alt="GIF 1" width="500"/>
+  <img src="https://github.com/Jannat-Javed/Naruto-Hand-Seals-Detection/blob/main/pics/Minato.gif" alt="GIF 2" width="500"/>
+</p>
+
+
 
 ## Features
 
@@ -38,6 +39,9 @@ The model was trained on a dataset that includes the following hand seals:
 - **Rat**
 - **Snake**
 - **Tiger**
+
+<img src="https://github.com/Jannat-Javed/Naruto-Hand-Seals-Detection/blob/main/pics/hand%20seals.png" alt="hand seals" width="600"/>
+
 
 ## Requirements
 
