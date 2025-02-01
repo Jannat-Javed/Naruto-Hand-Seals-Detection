@@ -36,11 +36,11 @@ The model was trained on a dataset that includes the following hand seals:
 - **Boar**
 - **Dog**
 - **Dragon**
-- **Hare**
+- **Hare (Rabbit)**
 - **Horse**
 - **Monkey**
 - **Ox**
-- **Ram**
+- **Ram (Sheep)**
 - **Rat**
 - **Snake**
 - **Tiger**
