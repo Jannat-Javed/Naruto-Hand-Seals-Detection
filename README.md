@@ -26,7 +26,6 @@ There are 12 basic hand signs or hand seals, each one named after an animal in t
 - **Customizable Display** for each detected hand seal with its image.
 - **Confidence Threshold** to adjust detection accuracy.
 - **Adjustable Frame Processing** for optimized performance.
-- **User-Friendly Command-Line Interface** with customizable settings.
 
 ## Dataset
 This project is designed for detecting Naruto hand seals. I used the [Naruto Hand Sign](https://www.kaggle.com/datasets/vikranthkanumuru/naruto-hand-sign-dataset) dataset.
